@@ -189,5 +189,13 @@ img{
 .img-modal {
     text-align:center;
     vertical-align:middle;
-    color: black;
+}
+
+.modal-body > p {
+    color: black !important;
+}
+
+.invisible{
+    color:red !important;
+    background-color: black !important;
 }
